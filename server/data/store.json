@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "6640166d-03f6-4930-b32f-5fdd2567e733",
+      "name": "Vaporly Admin",
+      "email": "admin@vaporly.local",
+      "passwordHash": "$2b$12$O2wVXTmu7gSST6JV8RsYOu.MDnrWAkzjst4D8kDqBKJXXBat1w0OS",
+      "role": "admin",
+      "approved": true,
+      "verified": true,
+      "createdAt": "2026-09-23T11:52:48.035Z"
+    }
+  ],
+  "tokens": [],
+  "products": []
+}
